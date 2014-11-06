@@ -1,6 +1,6 @@
 import random
 print('welkome....')
-print('...enter yo question!w')
+print('...type yo question!')
 
 while True:
 
@@ -10,7 +10,8 @@ while True:
     answers = [
         'no.','maybe','dont ask',
         'i am going to come to yo house in a cow suit',
-        'the cow says moooo','milky'
+        'the cow says moooo','milky','yaa buddy',
+        'welkom to the dark side   we have cookies'
     ]
 
 
