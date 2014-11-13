@@ -17,3 +17,4 @@ while True:
 
     answer = random.choice(answers)
     print(answer)
+#nnn
